@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=Bilel+Kaoulala;Cybers%C3%A9curit%C3%A9;Syst%C3%A8mes+%26+R%C3%A9seaux;Cloud+%26+Infrastructure;D%C3%A9veloppement+Web+S%C3%A9curis%C3%A9" alt="Bilel Kaoulala - Cybersécurité, systèmes, réseaux, cloud et développement web sécurisé" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:0f766e,100:10B981&text=Bilel%20Kaoulala&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Cybers%C3%A9curit%C3%A9%20offensive%20%C2%B7%20Pentest%20%C2%B7%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descAlignY=58&animation=fadeIn" alt="Bilel Kaoulala - Cybersécurité offensive, pentest, systèmes et réseaux" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=850&lines=Analyse+de+vuln%C3%A9rabilit%C3%A9s+%26+hardening;S%C3%A9curit%C3%A9+des+syst%C3%A8mes%2C+r%C3%A9seaux+et+applications;Infrastructure%2C+cloud+et+virtualisation;D%C3%A9veloppement+web+s%C3%A9curis%C3%A9" alt="Domaines de spécialisation de Bilel Kaoulala" />
+
+<br/>
 <br/>
 
 <a href="https://bilelka.com"><img src="https://img.shields.io/badge/Portfolio-bilelka.com-10B981?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
@@ -11,79 +14,161 @@
 <br/>
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=bilel-k&style=flat-square&color=10B981&label=Vues+du+profil" alt="Vues du profil GitHub" />
 <img src="https://img.shields.io/badge/Disponible-Suisse_Romande_·_France_·_Remote-10B981?style=flat-square" alt="Disponible en Suisse Romande, France frontalière et remote" />
-<img src="https://img.shields.io/badge/Focus-Cybers%C3%A9curit%C3%A9_·_Infrastructure_·_Web_S%C3%A9curis%C3%A9-111827?style=flat-square" alt="Focus cybersécurité, infrastructure et web sécurisé" />
+<img src="https://img.shields.io/badge/Focus-Pentest_·_Infrastructure_·_Web_S%C3%A9curis%C3%A9-111827?style=flat-square" alt="Focus pentest, infrastructure et web sécurisé" />
+
+<br/>
+<br/>
+
+<a href="#profil">Profil</a> ·
+<a href="#expertises">Expertises</a> ·
+<a href="#realisations">Réalisations</a> ·
+<a href="#stack">Stack</a> ·
+<a href="#parcours">Parcours</a> ·
+<a href="#objectifs">Objectifs</a> ·
+<a href="#contact">Contact</a>
 
 </div>
 
 ---
 
+<a id="profil"></a>
+
 ## Bilel Kaoulala
 
-**Étudiant en Informatique · Consultant IT Junior · Cybersécurité & Infrastructure**
+**Étudiant en Informatique · Consultant IT Junior · Cybersécurité offensive & Infrastructure**
 
 Passionné par la cybersécurité offensive, le pentest et l'analyse de vulnérabilités, je développe des projets techniques qui renforcent mes compétences en sécurité des systèmes, réseaux, applications et infrastructures.
 
-Mon approche est orientée terrain : comprendre le besoin, identifier les risques, mettre en place des solutions fiables, puis produire une documentation claire pour rendre le projet maintenable.
+Mon profil combine pratique technique, rigueur documentaire et curiosité terrain : comprendre l'environnement, cartographier les risques, tester proprement, corriger, puis rendre le résultat exploitable par une documentation claire.
+
+```text
+bilel@portfolio:~$ whoami
+
+Formation      Bachelor Informatique @ Geneva Institute of Technology
+Poste          Consultant IT Junior @ SATOM IT & Learning Solutions
+Localisation   Pays de Gex, frontalier Genève
+Mobilité       Suisse Romande · France frontalière · Remote
+Objectif       Freelance en cybersécurité, infrastructure et web sécurisé
+```
+
+<table>
+  <tr>
+    <td><b>Orientation</b></td>
+    <td>Cybersécurité offensive, pentest, analyse de vulnérabilités, hardening</td>
+  </tr>
+  <tr>
+    <td><b>Socle technique</b></td>
+    <td>Linux, réseaux, virtualisation, cloud, applications web, automatisation</td>
+  </tr>
+  <tr>
+    <td><b>Approche</b></td>
+    <td>Projets concrets, labs reproductibles, documentation claire, montée en compétence continue</td>
+  </tr>
+</table>
 
 ---
 
-## Profil
+<a id="expertises"></a>
 
-| Élément | Détail |
-|---------|--------|
-| **Formation** | Bachelor en Informatique @ Geneva Institute of Technology *(2024 - 2027)* |
-| **Poste actuel** | Consultant IT Junior @ SATOM IT & Learning Solutions · Freelance |
-| **Localisation** | Pays de Gex · Frontalier Genève |
-| **Mobilité** | Suisse Romande · France frontalière · Remote |
-| **Spécialisations** | Cybersécurité · Systèmes & réseaux · Cloud · Développement web · Gouvernance des données |
-| **Objectif** | Développer une activité indépendante autour de la cybersécurité, de l'infrastructure et du développement web sécurisé |
+## Expertises
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Audit & pentest</h3>
+      <p>Analyse de vulnérabilités, reconnaissance, tests contrôlés, exploitation en lab, priorisation des risques et remédiation.</p>
+    </td>
+    <td width="50%">
+      <h3>Systèmes & réseaux</h3>
+      <p>Administration Linux, segmentation, VPN, pare-feu, supervision, logs, durcissement et haute disponibilité.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Infrastructure</h3>
+      <p>Virtualisation Proxmox, stockage partagé, environnements de lab, Docker, monitoring et déploiements reproductibles.</p>
+    </td>
+    <td width="50%">
+      <h3>Web sécurisé</h3>
+      <p>Applications full-stack, APIs, authentification, paiement, validation des entrées et bonnes pratiques de sécurité applicative.</p>
+    </td>
+  </tr>
+</table>
+
+```text
+Comprendre -> Cartographier -> Tester -> Sécuriser -> Automatiser -> Documenter
+```
 
 ---
 
-## Domaines d'expertise
-
-| Domaine | Compétences mises en pratique |
-|---------|-------------------------------|
-| **Audit & hardening** | Analyse de vulnérabilités, durcissement Linux, réduction de surface d'attaque, remédiation documentée |
-| **Systèmes & réseaux** | Administration Linux, segmentation, VPN, pare-feu, supervision, logs, haute disponibilité |
-| **Infrastructure** | Proxmox, virtualisation, stockage partagé, environnements de lab, déploiements reproductibles |
-| **Développement web sécurisé** | Applications full-stack, APIs, authentification, paiement, validation des entrées, sécurité applicative |
-| **Automatisation** | Scripts, contrôles automatisés, scans sécurité, documentation d'exploitation, workflows GitHub |
-| **Gestion de projet** | Suivi de besoins, rigueur opérationnelle, méthode Agile/HERMES, communication avec des PME |
-
----
+<a id="realisations"></a>
 
 ## Réalisations
 
-| Projet | Période | Résumé | Stack |
-|--------|---------|--------|-------|
-| [**IndustriTech**](https://github.com/bilel-k/industritech) | Mars 2026 | Plateforme de supervision industrielle simulant 14 machines et 43 capteurs, avec dashboard temps réel, visualisation 3D et chaîne de contrôles sécurité automatisés | Docker · MQTT · InfluxDB · Grafana · Node-RED · Three.js · Trivy · OWASP ZAP · OPA/Rego |
-| [**FitCorner**](https://github.com/bilel-k/fitcorner) | Janvier 2026 | Site e-commerce fitness avec authentification JWT, catalogue produit, panier persistant et paiement Stripe | React · TypeScript · Express.js · SQLite · Stripe |
-| [**Proxmox Cluster**](https://github.com/bilel-k/proxmox) | Septembre 2025 | Plateforme de virtualisation multi-nœuds avec haute disponibilité, live migration, stockage NFS et gestion centralisée | Proxmox VE · Linux · NFS · HA |
-| [**Audit-Sec**](https://github.com/bilel-k/audit-sec) | Juin 2025 | Infrastructure de cybersécurité avec pare-feu, SIEM, scanner de vulnérabilités, VPN, IDS/IPS et remédiation post-audit | OPNsense · Wazuh · Nessus · OpenVPN · Fail2Ban |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/bilel-k/industritech">IndustriTech</a></h3>
+      <p><b>Mars 2026</b></p>
+      <p>Plateforme de supervision industrielle simulant 14 machines et 43 capteurs, avec dashboard temps réel, visualisation 3D et contrôles sécurité automatisés.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/bilel-k/audit-sec">Audit-Sec</a></h3>
+      <p><b>Juin 2025</b></p>
+      <p>Infrastructure de cybersécurité avec pare-feu, SIEM, scanner de vulnérabilités, VPN, IDS/IPS et remédiation post-audit.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logoColor=white" alt="OPNsense" />
+        <img src="https://img.shields.io/badge/Wazuh-00B28A?style=flat-square&logoColor=white" alt="Wazuh" />
+        <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white" alt="Nessus" />
+        <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/bilel-k/proxmox">Proxmox Cluster</a></h3>
+      <p><b>Septembre 2025</b></p>
+      <p>Plateforme de virtualisation multi-nœuds avec haute disponibilité, live migration, stockage NFS et gestion centralisée.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/NFS-111827?style=flat-square" alt="NFS" />
+        <img src="https://img.shields.io/badge/HA-10B981?style=flat-square" alt="Haute disponibilité" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/bilel-k/fitcorner">FitCorner</a></h3>
+      <p><b>Janvier 2026</b></p>
+      <p>Site e-commerce fitness avec authentification JWT, catalogue produit, panier persistant et paiement Stripe.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Boîte à outils technique
+<a id="stack"></a>
 
-### Langages
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-### Web
+<img src="https://skillicons.dev/icons?i=python,ts,js,bash,cpp,html,css,react,nextjs,nodejs,express,tailwind,docker,linux,git,github,aws,azure,grafana" alt="Icônes des technologies utilisées" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</div>
 
 ### Cybersécurité
 
@@ -97,36 +182,44 @@ Mon approche est orientée terrain : comprendre le besoin, identifier les risque
 ![Semgrep](https://img.shields.io/badge/Semgrep-74B72E?style=flat-square&logo=semgrep&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4479A1?style=flat-square&logoColor=white)
 
-### Infrastructure
+### Infrastructure & supervision
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<details>
+<summary><b>Voir le détail des compétences</b></summary>
+
+| Catégorie | Outils & notions |
+|-----------|------------------|
+| **Langages** | Python, TypeScript, JavaScript, Bash, C++, SQL |
+| **Web** | React, Next.js, Node.js, Express.js, Tailwind CSS, APIs, authentification, Stripe |
+| **Sécurité** | Pentest, analyse de vulnérabilités, Burp Suite, OWASP ZAP, Nessus, Nmap, Wireshark, Wazuh |
+| **Systèmes** | Linux, hardening, logs, services, permissions, firewalling, VPN |
+| **Infrastructure** | Proxmox, VMware, Docker, NFS, monitoring, cloud AWS/Azure |
+| **Méthode** | Documentation, reporting, gestion de projet, HERMES/Agile, communication client |
+
+</details>
 
 ---
 
-## Méthode de travail
-
-```text
-Comprendre -> Cartographier -> Sécuriser -> Tester -> Automatiser -> Documenter
-```
-
-- Partir du contexte réel avant de choisir les outils
-- Prioriser les risques exploitables et les impacts métier
-- Produire des configurations et procédures reproductibles
-- Vérifier les corrections par des tests ou scans contrôlés
-- Documenter les choix techniques pour faciliter la maintenance
-
----
+<a id="parcours"></a>
 
 ## Parcours
+
+```mermaid
+timeline
+    title Parcours académique et professionnel
+    2021 : Stage d'observation - Qatar Airways, Genève Aéroport
+    2024 : Début Bachelor Informatique - Geneva Institute of Technology
+    2024-2025 : Gestion logistique - DNATA, Genève Aéroport
+    2025 : Consultant IT Junior - SATOM IT & Learning Solutions
+    2026 : Certifications cybersécurité et projets publics
+    2027 : Fin prévue du Bachelor Informatique
+```
 
 | Période | Expérience |
 |---------|------------|
@@ -148,6 +241,8 @@ Comprendre -> Cartographier -> Sécuriser -> Tester -> Automatiser -> Documenter
 **En préparation :** eJPT · CompTIA Security+ · OSCP
 
 ---
+
+<a id="objectifs"></a>
 
 ## Objectifs
 
@@ -175,9 +270,21 @@ Comprendre -> Cartographier -> Sécuriser -> Tester -> Automatiser -> Documenter
 
 <img src="https://streak-stats.demolab.com?user=bilel-k&theme=github-dark&hide_border=true" alt="Série de contributions GitHub de Bilel" />
 
+<br/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bilel-k&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Trophées GitHub de Bilel" />
+
+<br/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilel-k&theme=github-compact&hide_border=true&area=true&custom_title=Activit%C3%A9%20GitHub" alt="Graphique d'activité GitHub de Bilel" />
+
 </div>
 
 ---
+
+<a id="contact"></a>
 
 ## Travaillons ensemble
 
@@ -192,6 +299,8 @@ Disponible pour échanger autour d'une opportunité, d'un projet ou d'une missio
 <br/>
 <br/>
 
-<sub>Cybersécurité · Infrastructure · Systèmes & Réseaux · Développement web sécurisé</sub>
+<sub>Cybersécurité offensive · Pentest · Infrastructure · Systèmes & Réseaux · Développement web sécurisé</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10B981,50:0f766e,100:0f172a" alt="Footer animé" />
 
 </div>
