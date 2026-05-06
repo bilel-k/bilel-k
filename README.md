@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:0f766e,100:10B981&text=Bilel%20Kaoulala&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Cybers%C3%A9curit%C3%A9%20offensive%20%C2%B7%20Pentest%20%C2%B7%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descAlignY=58&animation=fadeIn" alt="Bilel Kaoulala - Cybersécurité offensive, pentest, systèmes et réseaux" />
+<h1>Bilel Kaoulala</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=850&lines=Analyse+de+vuln%C3%A9rabilit%C3%A9s+%26+hardening;S%C3%A9curit%C3%A9+des+syst%C3%A8mes%2C+r%C3%A9seaux+et+applications;Infrastructure%2C+cloud+et+virtualisation;D%C3%A9veloppement+web+s%C3%A9curis%C3%A9" alt="Domaines de spécialisation de Bilel Kaoulala" />
+<p><b>Cybersécurité offensive · Pentest · Systèmes & Réseaux · Infrastructure</b></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=850&lines=Analyse+de+vuln%C3%A9rabilit%C3%A9s+%26+hardening;S%C3%A9curit%C3%A9+des+syst%C3%A8mes%2C+r%C3%A9seaux+et+applications;Infrastructure%2C+cloud+et+virtualisation;D%C3%A9veloppement+web+s%C3%A9curis%C3%A9" alt="" />
 
 <br/>
 <br/>
@@ -14,9 +16,9 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bilel-k&style=flat-square&color=10B981&label=Vues+du+profil" alt="Vues du profil GitHub" />
-<img src="https://img.shields.io/badge/Disponible-Suisse_Romande_·_France_·_Remote-10B981?style=flat-square" alt="Disponible en Suisse Romande, France frontalière et remote" />
-<img src="https://img.shields.io/badge/Focus-Pentest_·_Infrastructure_·_Web_S%C3%A9curis%C3%A9-111827?style=flat-square" alt="Focus pentest, infrastructure et web sécurisé" />
+<img src="https://komarev.com/ghpvc/?username=bilel-k&style=flat-square&color=10B981&label=Vues+du+profil" alt="" />
+<img src="https://img.shields.io/badge/Disponible-Suisse_Romande_·_France_·_Remote-10B981?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/Focus-Pentest_·_Infrastructure_·_Web_S%C3%A9curis%C3%A9-111827?style=flat-square" alt="" />
 
 <br/>
 <br/>
@@ -166,7 +168,7 @@ Comprendre -> Cartographier -> Tester -> Sécuriser -> Automatiser -> Documenter
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,bash,cpp,html,css,react,nextjs,nodejs,express,tailwind,docker,linux,git,github,aws,azure,grafana" alt="Icônes des technologies utilisées" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,bash,cpp,html,css,react,nextjs,nodejs,express,tailwind,docker,linux,git,github,aws,azure,grafana" alt="" />
 
 </div>
 
@@ -262,23 +264,28 @@ timeline
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bilel-k&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Statistiques GitHub de Bilel" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilel-k&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Langages les plus utilisés par Bilel" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilel-k&theme=github_dark" alt="" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bilel-k&theme=github-dark&hide_border=true" alt="Série de contributions GitHub de Bilel" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilel-k&theme=github_dark" alt="" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilel-k&theme=github_dark" alt="" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bilel-k&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Trophées GitHub de Bilel" />
+<img src="https://streak-stats.demolab.com?user=bilel-k&theme=github-dark&hide_border=true" alt="" />
 
 <br/>
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilel-k&theme=github-compact&hide_border=true&area=true&custom_title=Activit%C3%A9%20GitHub" alt="Graphique d'activité GitHub de Bilel" />
+<img src="https://github-profile-trophy.vercel.app/?username=bilel-k&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="" />
+
+<br/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilel-k&theme=github-compact&hide_border=true&area=true&custom_title=Activit%C3%A9%20GitHub" alt="" />
 
 </div>
 
@@ -300,7 +307,5 @@ Disponible pour échanger autour d'une opportunité, d'un projet ou d'une missio
 <br/>
 
 <sub>Cybersécurité offensive · Pentest · Infrastructure · Systèmes & Réseaux · Développement web sécurisé</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10B981,50:0f766e,100:0f172a" alt="Footer animé" />
 
 </div>
