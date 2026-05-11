@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bilel-k&style=flat-square&color=10B981&label=Vues+du+profil" alt="" />
+<img src="https://komarev.com/ghpvc/?username=bilkl&style=flat-square&color=10B981&label=Vues+du+profil" alt="" />
 <img src="https://img.shields.io/badge/Disponible-Suisse_Romande_·_France_·_Remote-10B981?style=flat-square" alt="" />
 <img src="https://img.shields.io/badge/Focus-Pentest_·_Infrastructure_·_Web_S%C3%A9curis%C3%A9-111827?style=flat-square" alt="" />
 
@@ -112,7 +112,7 @@ Comprendre -> Cartographier -> Tester -> Sécuriser -> Automatiser -> Documenter
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/bilel-k/industritech">IndustriTech</a></h3>
+      <h3><a href="https://github.com/bilkl/industritech">IndustriTech</a></h3>
       <p><b>Mars 2026</b></p>
       <p>Plateforme de supervision industrielle simulant 14 machines et 43 capteurs, avec dashboard temps réel, visualisation 3D et contrôles sécurité automatisés.</p>
       <p>
@@ -123,7 +123,7 @@ Comprendre -> Cartographier -> Tester -> Sécuriser -> Automatiser -> Documenter
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/bilel-k/audit-sec">Audit-Sec</a></h3>
+      <h3><a href="https://github.com/bilkl/audit-sec">Audit-Sec</a></h3>
       <p><b>Juin 2025</b></p>
       <p>Infrastructure de cybersécurité avec pare-feu, SIEM, scanner de vulnérabilités, VPN, IDS/IPS et remédiation post-audit.</p>
       <p>
@@ -136,7 +136,7 @@ Comprendre -> Cartographier -> Tester -> Sécuriser -> Automatiser -> Documenter
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/bilel-k/proxmox">Proxmox Cluster</a></h3>
+      <h3><a href="https://github.com/bilkl/proxmox">Proxmox Cluster</a></h3>
       <p><b>Septembre 2025</b></p>
       <p>Plateforme de virtualisation multi-nœuds avec haute disponibilité, live migration, stockage NFS et gestion centralisée.</p>
       <p>
@@ -147,7 +147,7 @@ Comprendre -> Cartographier -> Tester -> Sécuriser -> Automatiser -> Documenter
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/bilel-k/fitcorner">FitCorner</a></h3>
+      <h3><a href="https://github.com/bilkl/fitcorner">FitCorner</a></h3>
       <p><b>Janvier 2026</b></p>
       <p>Site e-commerce fitness avec authentification JWT, catalogue produit, panier persistant et paiement Stripe.</p>
       <p>
@@ -264,28 +264,28 @@ timeline
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilel-k&theme=github_dark" alt="" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilkl&theme=github_dark" alt="" />
 
 <br/>
 <br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilel-k&theme=github_dark" alt="" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilel-k&theme=github_dark" alt="" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilkl&theme=github_dark" alt="" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilkl&theme=github_dark" alt="" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bilel-k&theme=github-dark&hide_border=true" alt="" />
+<img src="https://streak-stats.demolab.com?user=bilkl&theme=github-dark&hide_border=true" alt="" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bilel-k&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="" />
+<img src="https://github-profile-trophy.vercel.app/?username=bilkl&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="" />
 
 <br/>
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilel-k&theme=github-compact&hide_border=true&area=true&custom_title=Activit%C3%A9%20GitHub" alt="" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilkl&theme=github-compact&hide_border=true&area=true&custom_title=Activit%C3%A9%20GitHub" alt="" />
 
 </div>
 
